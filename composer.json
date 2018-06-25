@@ -1,0 +1,16 @@
+{
+    "name": "angel/angelcodes",
+    "description": "Angel Codes is a front end framework!",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "angelCodesframework",
+            "email": "sow.djibril.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
